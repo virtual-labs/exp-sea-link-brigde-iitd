@@ -1,4 +1,11 @@
 ### These steps will be followed for the experiment
+**PRE EXPRIMENT QUIZ QUESTIONS**
+
+<br>
+1) What is mode shape?<br>
+2) How is natural frequency related to mode shape?<br>
+3) Draw first three modes of a simply supported bridge?<br>
+
 **Step-1**
 <br>
 Click on **Start Experiment Button** to start the experiment.
@@ -171,3 +178,9 @@ Select condition Tenth from drop down list and click on **View Mode Shape Button
 <br>
 Click on **Restart Button**.
 <br>
+
+**POST EXPRIMENT QUIZ QUESTIONS**
+
+<br>
+1) Draw first three mode shapes of the bridge.<br>
+2) According to you, which mode shape is most complicated?<br>
