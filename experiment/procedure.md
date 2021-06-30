@@ -12,7 +12,7 @@ Click on Start Experiment Button to start the experiment.
 <img src="images/s1.png"/><br>
 **Step-2**
 <br>
-Select condition first from drop down list and click on **View Mode Shape Button**.
+Select condition first from drop down list and click on View Mode Shape Button.
 <br>
 <img src="images/s2.png"/>
 <br>
@@ -29,7 +29,7 @@ Click on **Start Experiment Button** to start the experiment.
 <br>
 **Step-2**
 <br>
-Select condition Second from drop down list and click on **View Mode Shape Button**.
+Select condition Second from drop down list and click on View Mode Shape Button.
 <br>
 <img src="images/s2.png"/>
 <br>
@@ -47,7 +47,7 @@ Click on **Start Experiment Button** to start the experiment.
 <br>
 **Step-2**
 <br>
-Select condition Third from drop down list and click on **View Mode Shape Button**.
+Select condition Third from drop down list and click on View Mode Shape Button.
 <br>
 <img src="images/s2.png"/>
 <br>
@@ -65,7 +65,7 @@ Click on **Start Experiment Button** to start the experiment.
 <br>
 **Step-2**
 <br>
-Select condition Fourth from drop down list and click on **View Mode Shape Button**.
+Select condition Fourth from drop down list and click on View Mode Shape Button.
 <br>
 <img src="images/s2.png"/>
 <br>
@@ -82,7 +82,7 @@ Click on **Start Experiment Button** to start the experiment.
 <br>
 **Step-2**
 <br>
-Select condition Fifth from drop down list and click on **View Mode Shape Button**.
+Select condition Fifth from drop down list and click on View Mode Shape Button.
 <br>
 <img src="images/s2.png"/>
 <br>
@@ -99,7 +99,7 @@ Click on **Start Experiment Button** to start the experiment.
 <br>
 **Step-2**
 <br>
-Select condition Sixth from drop down list and click on **View Mode Shape Button**.
+Select condition Sixth from drop down list and click on View Mode Shape Button.
 <br>
 <img src="images/s2.png"/>
 <br>
@@ -116,7 +116,7 @@ Click on **Start Experiment Button** to start the experiment.
 <br>
 **Step-2**
 <br>
-Select condition Seventh from drop down list and click on **View Mode Shape Button**.
+Select condition Seventh from drop down list and click on View Mode Shape Button.
 <br>
 <img src="images/s2.png"/>
 <br>
@@ -133,7 +133,7 @@ Click on **Start Experiment Button** to start the experiment.
 <br>
 **Step-2**
 <br>
-Select condition Eighth from drop down list and click on **View Mode Shape Button**.
+Select condition Eighth from drop down list and click on View Mode Shape Button.
 <br>
 <img src="images/s2.png"/>
 <br>
@@ -150,7 +150,7 @@ Click on **Start Experiment Button** to start the experiment.
 <br>
 **Step-2**
 <br>
-Select condition Nineth from drop down list and click on **View Mode Shape Button**.
+Select condition Nineth from drop down list and click on View Mode Shape Button.
 <br>
 <img src="images/s2.png"/>
 <br>
@@ -168,7 +168,7 @@ Click on **Start Experiment Button** to start the experiment.
 <br>
 **Step-2**
 <br>
-Select condition Tenth from drop down list and click on **View Mode Shape Button**.
+Select condition Tenth from drop down list and click on View Mode Shape Button.
 <br>
 <img src="images/s2.png"/>
 <br>
