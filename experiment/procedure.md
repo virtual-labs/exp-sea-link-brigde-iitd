@@ -7,7 +7,7 @@
 
 **Step-1**
 <br>
-Click on Start Experiment Button to start the experiment.
+Click on Start Experiment button to start the experiment.
 <br>
 <img src="images/s1.png"/><br>
 **Step-2**
@@ -19,17 +19,17 @@ Select condition first from drop down list and click on View Mode Shape Button.
 <img src="images/s3.png"/><br>
 **Step-3**
 <br>
-Click on **Restart Button**.
+Click on Restart Button.
 <br><br><br>
 **Step-1**
 <br>
-Click on **Start Experiment Button** to start the experiment.
+Click on Start Experiment button to start the experiment.
 <br>
 <img src="images/s1.png"/>
 <br>
 **Step-2**
 <br>
-Select condition Second from drop down list and click on View Mode Shape Button.
+Select condition second from drop down list and click on view mode shape button.
 <br>
 <img src="images/s2.png"/>
 <br>
@@ -37,17 +37,17 @@ Select condition Second from drop down list and click on View Mode Shape Button.
 <br>
 **Step-3**
 <br>
-Click on **Restart Button**.
+Click on Restart button.
 <br><br><br>
 **Step-1**
 <br>
-Click on **Start Experiment Button** to start the experiment.
+Click on Start Experiment button to start the experiment.
 <br>
 <img src="images/s1.png"/>
 <br>
 **Step-2**
 <br>
-Select condition Third from drop down list and click on View Mode Shape Button.
+Select condition Third from drop down list and click on view mode shape button.
 <br>
 <img src="images/s2.png"/>
 <br>
@@ -55,127 +55,127 @@ Select condition Third from drop down list and click on View Mode Shape Button.
 <br>
 **Step-3**
 <br>
-Click on **Restart Button**.
+Click on Restart Button.
 <br><br><br>
 **Step-1**
 <br>
-Click on **Start Experiment Button** to start the experiment.
+Click on Start Experiment Button to start the experiment.
 <br>
 <img src="images/s1.png"/>
 <br>
 **Step-2**
 <br>
-Select condition Fourth from drop down list and click on View Mode Shape Button.
+Select condition Fourth from drop down list and click on view mode shape button.
 <br>
 <img src="images/s2.png"/>
 <br>
 <img src="images/s6.png"/><br>
 **Step-3**
 <br>
-Click on **Restart Button**.
+Click on Restart Button.
 <br><br><br>
 **Step-1**
 <br>
-Click on **Start Experiment Button** to start the experiment.
+Click on Start Experiment Button to start the experiment.
 <br>
 <img src="images/s1.png"/>
 <br>
 **Step-2**
 <br>
-Select condition Fifth from drop down list and click on View Mode Shape Button.
+Select condition Fifth from drop down list and click on view mode shape button.
 <br>
 <img src="images/s2.png"/>
 <br>
 <img src="images/s7.png"/><br>
 **Step-3**
 <br>
-Click on **Restart Button**.
+Click on Restart Button.
 <br><br><br>
 **Step-1**
 <br>
-Click on **Start Experiment Button** to start the experiment.
+Click on Start Experiment Button to start the experiment.
 <br>
 <img src="images/s1.png"/>
 <br>
 **Step-2**
 <br>
-Select condition Sixth from drop down list and click on View Mode Shape Button.
+Select condition Sixth from drop down list and click on view mode shape button.
 <br>
 <img src="images/s2.png"/>
 <br>
 <img src="images/s8.png"/><br>
 **Step-3**
 <br>
-Click on **Restart Button**.
+Click on Restart Button.
 <br><br><br>
 **Step-1**
 <br>
-Click on **Start Experiment Button** to start the experiment.
+Click on Start Experiment Button to start the experiment.
 <br>
 <img src="images/s1.png"/>
 <br>
 **Step-2**
 <br>
-Select condition Seventh from drop down list and click on View Mode Shape Button.
+Select condition Seventh from drop down list and click on view mode shape button.
 <br>
 <img src="images/s2.png"/>
 <br>
 <img src="images/s9.png"/><br>
 **Step-3**
 <br>
-Click on **Restart Button**.
+Click on Restart Button.
 <br><br><br>
 **Step-1**
 <br>
-Click on **Start Experiment Button** to start the experiment.
+Click on Start Experiment Button to start the experiment.
 <br>
 <img src="images/s1.png"/>
 <br>
 **Step-2**
 <br>
-Select condition Eighth from drop down list and click on View Mode Shape Button.
+Select condition Eighth from drop down list and click on view mode shape button.
 <br>
 <img src="images/s2.png"/>
 <br>
 <img src="images/s10.png"/><br>
 **Step-3**
 <br>
-Click on **Restart Button**.
+Click on Restart Button.
 <br><br><br>
 **Step-1**
 <br>
-Click on **Start Experiment Button** to start the experiment.
+Click on Start Experiment Button to start the experiment.
 <br>
 <img src="images/s1.png"/>
 <br>
 **Step-2**
 <br>
-Select condition Nineth from drop down list and click on View Mode Shape Button.
+Select condition Nineth from drop down list and click on view mode shape button.
 <br>
 <img src="images/s2.png"/>
 <br>
 <img src="images/s11.png"/><br>
 **Step-3**
 <br>
-Click on **Restart Button**.
+Click on Restart Button.
 <br>
 <br><br>
 **Step-1**
 <br>
-Click on **Start Experiment Button** to start the experiment.
+Click on Start Experiment Button to start the experiment.
 <br>
 <img src="images/s1.png"/>
 <br>
 **Step-2**
 <br>
-Select condition Tenth from drop down list and click on View Mode Shape Button.
+Select condition Tenth from drop down list and click on view mode shape button.
 <br>
 <img src="images/s2.png"/>
 <br>
 <img src="images/s12.png"/><br>
 **Step-3**
 <br>
-Click on **Restart Button**.
+Click on Restart Button.
 <br>
 
 **POST EXPERIMENT TASK**
