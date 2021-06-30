@@ -7,7 +7,7 @@
 
 **Step-1**
 <br>
-Click on **Start Experiment Button** to start the experiment.
+Click on Start Experiment Button to start the experiment.
 <br>
 <img src="images/s1.png"/><br>
 **Step-2**
