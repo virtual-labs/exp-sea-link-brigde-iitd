@@ -12,7 +12,7 @@ Click on Start Experiment button to start the experiment.
 <img src="images/s1.png"/><br>
 **Step-2**
 <br>
-Select condition first from drop down list and click on View Mode Shape Button.
+Select condition First from drop down list and click on view mode shape button.
 <br>
 <img src="images/s2.png"/>
 <br>
@@ -29,7 +29,7 @@ Click on Start Experiment button to start the experiment.
 <br>
 **Step-2**
 <br>
-Select condition second from drop down list and click on view mode shape button.
+Select condition Second from drop down list and click on view mode shape button.
 <br>
 <img src="images/s2.png"/>
 <br>
