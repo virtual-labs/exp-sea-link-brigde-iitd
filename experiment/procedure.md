@@ -1,5 +1,5 @@
 ### These steps will be followed for the experiment
-**PRE EXPRIMENT TASK**
+**PRE EXPERIMENT TASK**
 
 1) What is mode shape?<br>
 2) How is natural frequency related to mode shape?<br>
@@ -7,29 +7,29 @@
 
 **Step-1**
 <br>
-Click on **Start Experiment Button** to start the experiment.
+Click on start experiment button to start the experiment.
 <br>
 <img src="images/s1.png"/><br>
 **Step-2**
 <br>
-Select condition first from drop down list and click on **View Mode Shape Button**.
+Select condition first from drop down list and click on view mode shape button.
 <br>
 <img src="images/s2.png"/>
 <br>
 <img src="images/s3.png"/><br>
 **Step-3**
 <br>
-Click on **Restart Button**.
+Click on restart button.
 <br><br><br>
 **Step-1**
 <br>
-Click on **Start Experiment Button** to start the experiment.
+Click on start experiment button to start the experiment.
 <br>
 <img src="images/s1.png"/>
 <br>
 **Step-2**
 <br>
-Select condition Second from drop down list and click on **View Mode Shape Button**.
+Select condition second from drop down list and click on view mode shape button.
 <br>
 <img src="images/s2.png"/>
 <br>
@@ -37,17 +37,17 @@ Select condition Second from drop down list and click on **View Mode Shape Butto
 <br>
 **Step-3**
 <br>
-Click on **Restart Button**.
+Click on restart button.
 <br><br><br>
 **Step-1**
 <br>
-Click on **Start Experiment Button** to start the experiment.
+Click on start experiment button to start the experiment.
 <br>
 <img src="images/s1.png"/>
 <br>
 **Step-2**
 <br>
-Select condition Third from drop down list and click on **View Mode Shape Button**.
+Select condition third from drop down list and click on view mode shape button.
 <br>
 <img src="images/s2.png"/>
 <br>
@@ -55,130 +55,130 @@ Select condition Third from drop down list and click on **View Mode Shape Button
 <br>
 **Step-3**
 <br>
-Click on **Restart Button**.
+Click on restart button.
 <br><br><br>
 **Step-1**
 <br>
-Click on **Start Experiment Button** to start the experiment.
+Click on start experiment button to start the experiment.
 <br>
 <img src="images/s1.png"/>
 <br>
 **Step-2**
 <br>
-Select condition Fourth from drop down list and click on **View Mode Shape Button**.
+Select condition fourth from drop down list and click on view mode shape button.
 <br>
 <img src="images/s2.png"/>
 <br>
 <img src="images/s6.png"/><br>
 **Step-3**
 <br>
-Click on **Restart Button**.
+Click on restart button.
 <br><br><br>
 **Step-1**
 <br>
-Click on **Start Experiment Button** to start the experiment.
+Click on start experiment button to start the experiment.
 <br>
 <img src="images/s1.png"/>
 <br>
 **Step-2**
 <br>
-Select condition Fifth from drop down list and click on **View Mode Shape Button**.
+Select condition fifth from drop down list and click on view mode shape button.
 <br>
 <img src="images/s2.png"/>
 <br>
 <img src="images/s7.png"/><br>
 **Step-3**
 <br>
-Click on **Restart Button**.
+Click on restart button.
 <br><br><br>
 **Step-1**
 <br>
-Click on **Start Experiment Button** to start the experiment.
+Click on start experiment button to start the experiment.
 <br>
 <img src="images/s1.png"/>
 <br>
 **Step-2**
 <br>
-Select condition Sixth from drop down list and click on **View Mode Shape Button**.
+Select condition sixth from drop down list and click on view mode shape button.
 <br>
 <img src="images/s2.png"/>
 <br>
 <img src="images/s8.png"/><br>
 **Step-3**
 <br>
-Click on **Restart Button**.
+Click on restart button.
 <br><br><br>
 **Step-1**
 <br>
-Click on **Start Experiment Button** to start the experiment.
+Click on start experiment button to start the experiment.
 <br>
 <img src="images/s1.png"/>
 <br>
 **Step-2**
 <br>
-Select condition Seventh from drop down list and click on **View Mode Shape Button**.
+Select condition seventh from drop down list and click on view mode shape button.
 <br>
 <img src="images/s2.png"/>
 <br>
 <img src="images/s9.png"/><br>
 **Step-3**
 <br>
-Click on **Restart Button**.
+Click on restart button.
 <br><br><br>
 **Step-1**
 <br>
-Click on **Start Experiment Button** to start the experiment.
+Click on start experiment button to start the experiment.
 <br>
 <img src="images/s1.png"/>
 <br>
 **Step-2**
 <br>
-Select condition Eighth from drop down list and click on **View Mode Shape Button**.
+Select condition eighth from drop down list and click on view mode shape button.
 <br>
 <img src="images/s2.png"/>
 <br>
 <img src="images/s10.png"/><br>
 **Step-3**
 <br>
-Click on **Restart Button**.
+Click on restart button.
 <br><br><br>
 **Step-1**
 <br>
-Click on **Start Experiment Button** to start the experiment.
+Click on start experiment button to start the experiment.
 <br>
 <img src="images/s1.png"/>
 <br>
 **Step-2**
 <br>
-Select condition Nineth from drop down list and click on **View Mode Shape Button**.
+Select condition nineth from drop down list and click on view mode shape button.
 <br>
 <img src="images/s2.png"/>
 <br>
 <img src="images/s11.png"/><br>
 **Step-3**
 <br>
-Click on **Restart Button**.
+Click on restart button.
 <br>
 <br><br>
 **Step-1**
 <br>
-Click on **Start Experiment Button** to start the experiment.
+Click on start experiment button to start the experiment.
 <br>
 <img src="images/s1.png"/>
 <br>
 **Step-2**
 <br>
-Select condition Tenth from drop down list and click on **View Mode Shape Button**.
+Select condition tenth from drop down list and click on view mode shape button.
 <br>
 <img src="images/s2.png"/>
 <br>
 <img src="images/s12.png"/><br>
 **Step-3**
 <br>
-Click on **Restart Button**.
+Click on restart button.
 <br>
 
-**POST EXPRIMENT TASK**
+**POST EXPERIMENT TASK**
 
 1) Draw first three mode shapes of the bridge.<br>
 2) According to you, which mode shape is most complicated?<br>
