@@ -309,7 +309,10 @@ function navNext12()
 
 function reset()
 {
-    location.reload();
+	location.reload();
+	document.getElementById("canvas1").style.visibility="hidden";
+	document.getElementById("canvas1a").style.visibility="visible";
+	
 }
 
 
