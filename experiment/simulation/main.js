@@ -316,6 +316,96 @@ function reset()
 }
 
 
+function reset1()
+{
+
+	document.getElementById("canvas2").style.visibility="hidden";
+	document.getElementById("canvas1").style.visibility="hidden";
+	document.getElementById("canvas1a").style.visibility="visible";
+   
+}
+
+function reset2()
+{
+
+	document.getElementById("canvas3").style.visibility="hidden";
+	document.getElementById("canvas1").style.visibility="hidden";
+	document.getElementById("canvas1a").style.visibility="visible";
+   
+}
+
+function reset3()
+{
+
+	document.getElementById("canvas4").style.visibility="hidden";
+	document.getElementById("canvas1").style.visibility="hidden";
+	document.getElementById("canvas1a").style.visibility="visible";
+
+}
+
+function reset4()
+{
+
+	document.getElementById("canvas5").style.visibility="hidden";
+	document.getElementById("canvas1").style.visibility="hidden";
+	document.getElementById("canvas1a").style.visibility="visible";
+   
+}
+
+function reset5()
+{
+
+	document.getElementById("canvas6").style.visibility="hidden";
+	document.getElementById("canvas1").style.visibility="hidden";
+	document.getElementById("canvas1a").style.visibility="visible";
+   
+}
+
+function reset6()
+{
+
+	document.getElementById("canvas7").style.visibility="hidden";
+	document.getElementById("canvas1").style.visibility="hidden";
+	document.getElementById("canvas1a").style.visibility="visible";
+
+}
+
+function reset7()
+{
+
+	document.getElementById("canvas8").style.visibility="hidden";
+	document.getElementById("canvas1").style.visibility="hidden";
+	document.getElementById("canvas1a").style.visibility="visible";
+   
+}
+
+function reset8()
+{
+
+	document.getElementById("canvas9").style.visibility="hidden";
+	document.getElementById("canvas1").style.visibility="hidden";
+	document.getElementById("canvas1a").style.visibility="visible";
+   
+}
+
+function reset9()
+{
+
+	document.getElementById("canvas10").style.visibility="hidden";
+	document.getElementById("canvas1").style.visibility="hidden";
+	document.getElementById("canvas1a").style.visibility="visible";
+
+}
+
+function reset10()
+{
+
+	document.getElementById("canvas11").style.visibility="hidden";
+	document.getElementById("canvas1").style.visibility="hidden";
+	document.getElementById("canvas1a").style.visibility="visible";
+
+}
+
 /*
 ========================
 <p id="demo"></p>
