@@ -1,4 +1,4 @@
-### Theory
+### Introduction
 	
 Bridge consists of two continuous concrete box girder bridge sections for traffic in each direction. Each bridge section (except at the cable - stayed portion) is supported on piers spaced at 50 meters. Each section is meant for four lanes of traffic with concrete barriers and service side walks on one side. The bridge alignment is defined with vertical and horizontal curves. The Link Bridge layout is divided into three different parts:
 
