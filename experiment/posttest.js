@@ -91,7 +91,7 @@
     const myQuestions = [
         
         {
-            question: "1.Fourth mode shape involves", ///// Write the question inside double quotes
+            question: "1. Fourth mode shape involves", ///// Write the question inside double quotes
             answers: {
                 a: "Symmetrical bending of deck slabs in vertical plane", ///// Write the option 1 inside double quotes
                 b: "Lateral bending of deck", ///// Write the option 2 inside double quotes
