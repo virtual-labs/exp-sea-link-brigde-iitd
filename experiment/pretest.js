@@ -91,7 +91,7 @@
      const myQuestions = [
       
       {
-            question: "1.What type of bridge is represented by Bandra-Worli Sea link bridge?", ///// Write the question inside double quotes
+            question: "1. What type of bridge is represented by Bandra-Worli Sea link bridge?", ///// Write the question inside double quotes
             answers: {
                 a: "Cantilever bridge",
                 b: "Cable stayed bridge", 
@@ -102,7 +102,7 @@
         },
       
        {
-            question: "2.What is the number of spans in Bandra-Worli Sea Link Bridge", ///// Write the question inside double quotes
+            question: "2. What is the number of spans in Bandra-Worli Sea Link Bridge", ///// Write the question inside double quotes
             answers: {
                 a: "2",
                 b: "4", 
