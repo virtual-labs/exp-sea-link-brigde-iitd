@@ -6,177 +6,193 @@
 3) Draw first three modes of a simply supported bridge?<br> -->
 
 **Step-1**
-<br>
+
 Click on start experiment button to start the experiment.
-<br>
-<img src="images/s1.png"/><br>
+
+<img src="images/pr1.png"/>
+
 **Step-2**
-<br>
+
 Select condition first from drop down list and click on view mode shape button.
-<br>
-<img src="images/s2.png"/>
-<br>
-<img src="images/s3.png"/><br>
+
+<img src="images/pr2.png"/>
+
 **Step-3**
-<br>
+
 Click on restart button.
-<br><br><br>
+
+<img src="images/pr3.png"/>
+
+
 **Step-1**
-<br>
+
 Click on start experiment button to start the experiment.
-<br>
-<img src="images/s1.png"/>
-<br>
+
+<img src="images/pr1.png"/>
+
 **Step-2**
-<br>
+
 Select condition second from drop down list and click on view mode shape button.
-<br>
-<img src="images/s2.png"/>
-<br>
-<img src="images/s4.png"/>
-<br>
+
+<img src="images/pr4.png"/>
+
 **Step-3**
-<br>
+
 Click on restart button.
-<br><br><br>
+
+<img src="images/pr5.png"/>
+
+
+
 **Step-1**
-<br>
+
 Click on start experiment button to start the experiment.
-<br>
-<img src="images/s1.png"/>
-<br>
+
+<img src="images/pr1.png"/>
+
 **Step-2**
-<br>
+
 Select condition third from drop down list and click on view mode shape button.
-<br>
-<img src="images/s2.png"/>
-<br>
-<img src="images/s5.png"/>
-<br>
+
+<img src="images/pr6.png"/>
+
 **Step-3**
-<br>
+
 Click on restart button.
-<br><br><br>
+
+<img src="images/pr7.png"/>
+
+
 **Step-1**
-<br>
+
 Click on start experiment button to start the experiment.
-<br>
-<img src="images/s1.png"/>
-<br>
+
+<img src="images/pr1.png"/>
+
 **Step-2**
-<br>
+
 Select condition fourth from drop down list and click on view mode shape button.
-<br>
-<img src="images/s2.png"/>
-<br>
-<img src="images/s6.png"/><br>
+
+<img src="images/pr8.png"/>
+
 **Step-3**
-<br>
+
 Click on restart button.
-<br><br><br>
+
+<img src="images/pr9.png"/>
+
 **Step-1**
-<br>
+
 Click on start experiment button to start the experiment.
-<br>
-<img src="images/s1.png"/>
-<br>
+
+<img src="images/pr1.png"/>
+
 **Step-2**
-<br>
+
 Select condition fifth from drop down list and click on view mode shape button.
-<br>
-<img src="images/s2.png"/>
-<br>
-<img src="images/s7.png"/><br>
+
+<img src="images/pr10.png"/>
+
 **Step-3**
-<br>
+
 Click on restart button.
-<br><br><br>
+
+<img src="images/pr11.png"/>
+
+
 **Step-1**
-<br>
+
 Click on start experiment button to start the experiment.
-<br>
-<img src="images/s1.png"/>
-<br>
+
+<img src="images/pr1.png"/>
+
 **Step-2**
-<br>
+
 Select condition sixth from drop down list and click on view mode shape button.
-<br>
-<img src="images/s2.png"/>
-<br>
-<img src="images/s8.png"/><br>
+
+<img src="images/pr12.png"/>
+
 **Step-3**
-<br>
+
 Click on restart button.
-<br><br><br>
+
+<img src="images/pr13.png"/>
+
+
 **Step-1**
-<br>
+
 Click on start experiment button to start the experiment.
-<br>
-<img src="images/s1.png"/>
-<br>
+
+<img src="images/pr1.png"/>
+
 **Step-2**
-<br>
+
 Select condition seventh from drop down list and click on view mode shape button.
-<br>
-<img src="images/s2.png"/>
-<br>
-<img src="images/s9.png"/><br>
+
+<img src="images/pr14.png"/>
+
 **Step-3**
-<br>
+
 Click on restart button.
-<br><br><br>
+
+<img src="images/pr15.png"/>
+
+
 **Step-1**
-<br>
+
 Click on start experiment button to start the experiment.
-<br>
-<img src="images/s1.png"/>
-<br>
+
+<img src="images/pr1.png"/>
+
 **Step-2**
-<br>
+
 Select condition eighth from drop down list and click on view mode shape button.
-<br>
-<img src="images/s2.png"/>
-<br>
-<img src="images/s10.png"/><br>
+
+<img src="images/pr16.png"/>
+
 **Step-3**
-<br>
+
 Click on restart button.
-<br><br><br>
+
+<img src="images/pr17.png"/>
+
+
 **Step-1**
-<br>
+
 Click on start experiment button to start the experiment.
-<br>
-<img src="images/s1.png"/>
-<br>
+
+<img src="images/pr1.png"/>
+
 **Step-2**
-<br>
+
 Select condition nineth from drop down list and click on view mode shape button.
-<br>
-<img src="images/s2.png"/>
-<br>
-<img src="images/s11.png"/><br>
+
+<img src="images/pr18.png"/>
+
 **Step-3**
-<br>
+
 Click on restart button.
-<br>
-<br><br>
+
+<img src="images/pr19.png"/>
+
 **Step-1**
-<br>
+
 Click on start experiment button to start the experiment.
-<br>
-<img src="images/s1.png"/>
-<br>
+
+<img src="images/pr1.png"/>
+
 **Step-2**
-<br>
+
 Select condition tenth from drop down list and click on view mode shape button.
-<br>
-<img src="images/s2.png"/>
-<br>
-<img src="images/s12.png"/><br>
+
+<img src="images/pr20.png"/>
+
 **Step-3**
-<br>
+
 Click on restart button.
-<br>
+
+<img src="images/pr21.png"/>
+
 
 <!-- **POST EXPERIMENT TASK**
 
