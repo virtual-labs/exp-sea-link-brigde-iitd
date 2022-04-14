@@ -55,7 +55,7 @@
 
 
 
-        <div class="simsubscreen" id="canvas1" ></br>
+        <div class="simsubscreen" id="canvas1" style="visibility:;"></br>
 
 <!-----<strong class="incanvas">STEP</strong>
 
@@ -63,7 +63,7 @@
 <div id="transwhite" style="width: 700px; margin-right: 50px; margin-left: 50px; height: 90px; overflow-x: hidden; overflow-y: scroll;">
             <p class="incanvas" style="font-size:15px;"><strong>Objective:</strong></p>
 
-            <p class="incanvas" style="font-size:14px;">The Link Bridge layout is categorized into different parts</p><br>
+            <p class="incanvas" style="font-size:14px;">To study the modes of vibration of a real-life bridge – Bandra Worli Sea Link Bridge.</p><br>
             
 </br><p class="incanvas" style="font-size:14px;">
 <strong>DISCLAIMER:</strong> The Simulation covered in this experiment is based on the geometrical and material parameters of the Bandra- Worli Sea Link Bridge. The FENITE ELEMENT MODEL is highly idealizised and not updated on the actual bridge. The structural dynamics aspects covered are thus idealized and may not be representative of the actual bridge,where site condition matter a lot. Also, the term and condtion of General Disclaimer hold good</p>
@@ -127,14 +127,14 @@ MODE SHAPES</p>
             	
             <input type="button" id="nextButton1" style="position:absolute; left: 30px; top: 225px; cursor:pointer; font-size: 15px; background-color: #2150a0; padding-top: 5px; padding-bottom: 5px; color: #FFF;" value="&nbsp;View Mode Shape&nbsp;" onclick="navNext1a()"/>
 </div>
-		<span style="position: absolute; left: 35px; top: 30px; font-size: 16px; width: 500px; text-align: justify;">
-			Bridge consists of 2 continuous concrete box girder bridge sections for traffic in each direction. Each bridge section except at the cable - stayed portion is supported on piers spaced at 50 meters. Each section is meant for four lanes of traffic with concrete barriers and service side walks on one side. The bridge alignment is defined with vertical and horizontal curves. The Link Bridge layout is categorized into three different parts :-<br><br><br>
+<!-- 		<span style="position: absolute; left: 35px; top: 30px; font-size: 16px; width: 500px; text-align: justify;">
+			Bridge consists of two continuous concrete box girder bridge sections for traffic in each direction. Each bridge section (except at the cable - stayed portion) is supported on piers spaced at 50 meters. Each section is meant for four lanes of traffic with concrete barriers and service side walks on one side. The bridge alignment is defined with vertical and horizontal curves. The Link Bridge layout is divided into three different parts:<br><br><br>
 			<ul style="font-size:14px;">
-            	<li><strong>Part 1 - The north end approach structure mainly with precast (PC) segmental construction</strong></li><br>
-            	<li><strong>Part 2 - The Cable Stayed Bridge at Bandra channel is with 50m - 250m - 250m - 50m span arrangement and the Cable Stayed Bridge at Worli channel is with 50m - 50m - 150m - 50m - 50m span arrangement</strong></li><br>
-            	<li><strong>Part 3 - The south end approach structure mainly with precast segmental construction</strong></li>
+            	<li><strong>Part 1 - The north end approach structure is of precast (PC) segmental construction</strong></li><br>
+            	<li><strong>Part 2 - The cable stayed bridge at bandra channel is of 50m - 250m - 250m - 50m span arrangement and the cable stayed bridge at Worli channel is of 50m - 50m - 150m - 50m - 50m span arrangement</strong></li><br>
+            	<li><strong>Part 3 - The south end approach structure is of precast segmental construction</strong></li>
             </ul>
-		</span>
+		</span> -->
             <!-- <img src="images/0.png" id="img2" style="position:absolute; left: 30px; top: 145px; height: 300px;" title="Plate" /> -->
 
            
@@ -158,7 +158,7 @@ MODE SHAPES</p>
 
 			<img src="images/c1.gif" style="position:absolute; left: 30px; top: 45px; height: 480px;" title="Plate"/>
 		</div>
-	<input type="button" value="Restart" style="position: absolute; left: 720px; top: 520px; width: 75px; padding-top: 5px; padding-bottom: 5px; background-color: #2150a0; color: #FFF;" onclick="reset()">
+	<input type="button" value="Next" style="position: absolute; left: 720px; top: 520px; width: 75px; padding-top: 5px; padding-bottom: 5px; background-color: #2150a0; color: #FFF;" onclick="reset1()">
 	</div>
 
         <!-- Condition 2 -->
@@ -168,7 +168,7 @@ MODE SHAPES</p>
 
 			<img src="images/c2.gif" style="position:absolute; left: 30px; top: 45px; height: 480px;" title="Plate"/>
 		</div>
-	<input type="button" value="Restart" style="position: absolute; left: 720px; top: 520px; width: 75px; padding-top: 5px; padding-bottom: 5px; background-color: #2150a0; color: #FFF;" onclick="reset()">
+	<input type="button" value="Next" style="position: absolute; left: 720px; top: 520px; width: 75px; padding-top: 5px; padding-bottom: 5px; background-color: #2150a0; color: #FFF;" onclick="reset2()">
 	</div>
 
         <!-- Condition 3 -->
@@ -178,7 +178,7 @@ MODE SHAPES</p>
 
 			<img src="images/c3.gif" style="position:absolute; left: 30px; top: 45px; height: 480px;" title="Plate"/>
 		</div>
-	<input type="button" value="Restart" style="position: absolute; left: 720px; top: 520px; width: 75px; padding-top: 5px; padding-bottom: 5px; background-color: #2150a0; color: #FFF;" onclick="reset()">
+	<input type="button" value="Next" style="position: absolute; left: 720px; top: 520px; width: 75px; padding-top: 5px; padding-bottom: 5px; background-color: #2150a0; color: #FFF;" onclick="reset3()">
 	</div>
 
         <!-- Condition 4 -->
@@ -188,7 +188,7 @@ MODE SHAPES</p>
 
 			<img src="images/c4.gif" style="position:absolute; left: 30px; top: 45px; height: 480px;" title="Plate"/>
 		</div>
-	<input type="button" value="Restart" style="position: absolute; left: 720px; top: 520px; width: 75px; padding-top: 5px; padding-bottom: 5px; background-color: #2150a0; color: #FFF;" onclick="reset()">
+	<input type="button" value="Next" style="position: absolute; left: 720px; top: 520px; width: 75px; padding-top: 5px; padding-bottom: 5px; background-color: #2150a0; color: #FFF;" onclick="reset4()">
 	</div>	
 
         <!-- Condition 5 -->
@@ -198,7 +198,7 @@ MODE SHAPES</p>
 
 			<img src="images/c5.gif" style="position:absolute; left: 30px; top: 45px; height: 480px;" title="Plate"/>
 		</div>
-	<input type="button" value="Restart" style="position: absolute; left: 720px; top: 520px; width: 75px; padding-top: 5px; padding-bottom: 5px; background-color: #2150a0; color: #FFF;" onclick="reset()">
+	<input type="button" value="Next" style="position: absolute; left: 720px; top: 520px; width: 75px; padding-top: 5px; padding-bottom: 5px; background-color: #2150a0; color: #FFF;" onclick="reset5()">
 	</div>
 
         <!-- Condition 6 -->
@@ -208,7 +208,7 @@ MODE SHAPES</p>
 
 			<img src="images/c6.gif" style="position:absolute; left: 30px; top: 45px; height: 480px;" title="Plate"/>
 		</div>
-	<input type="button" value="Restart" style="position: absolute; left: 720px; top: 520px; width: 75px; padding-top: 5px; padding-bottom: 5px; background-color: #2150a0; color: #FFF;" onclick="reset()">
+	<input type="button" value="Next" style="position: absolute; left: 720px; top: 520px; width: 75px; padding-top: 5px; padding-bottom: 5px; background-color: #2150a0; color: #FFF;" onclick="reset6()">
 	</div>
 
         <!-- Condition 7 -->
@@ -218,7 +218,7 @@ MODE SHAPES</p>
 
 			<img src="images/c7.gif" style="position:absolute; left: 30px; top: 45px; height: 480px;" title="Plate"/>
 		</div>
-	<input type="button" value="Restart" style="position: absolute; left: 720px; top: 520px; width: 75px; padding-top: 5px; padding-bottom: 5px; background-color: #2150a0; color: #FFF;" onclick="reset()">
+	<input type="button" value="Next" style="position: absolute; left: 720px; top: 520px; width: 75px; padding-top: 5px; padding-bottom: 5px; background-color: #2150a0; color: #FFF;" onclick="reset7()">
 	</div>
 
         <!-- Condition 8 -->
@@ -228,7 +228,7 @@ MODE SHAPES</p>
 
 			<img src="images/c8.gif" style="position:absolute; left: 30px; top: 45px; height: 480px;" title="Plate"/>
 		</div>
-	<input type="button" value="Restart" style="position: absolute; left: 720px; top: 520px; width: 75px; padding-top: 5px; padding-bottom: 5px; background-color: #2150a0; color: #FFF;" onclick="reset()">
+	<input type="button" value="Next" style="position: absolute; left: 720px; top: 520px; width: 75px; padding-top: 5px; padding-bottom: 5px; background-color: #2150a0; color: #FFF;" onclick="reset8()">
 	</div>
 
         <!-- Condition 9 -->
@@ -238,7 +238,7 @@ MODE SHAPES</p>
 
 			<img src="images/c9.gif" style="position:absolute; left: 30px; top: 45px; height: 480px;" title="Plate"/>
 		</div>
-	<input type="button" value="Restart" style="position: absolute; left: 720px; top: 520px; width: 75px; padding-top: 5px; padding-bottom: 5px; background-color: #2150a0; color: #FFF;" onclick="reset()">
+	<input type="button" value="Next" style="position: absolute; left: 720px; top: 520px; width: 75px; padding-top: 5px; padding-bottom: 5px; background-color: #2150a0; color: #FFF;" onclick="reset9()">
 	</div>
 
         <!-- Condition 10 -->
@@ -248,7 +248,7 @@ MODE SHAPES</p>
 
 			<img src="images/c10.gif" style="position:absolute; left: 30px; top: 45px; height: 480px;" title="Plate"/>
 		</div>
-	<input type="button" value="Restart" style="position: absolute; left: 720px; top: 520px; width: 75px; padding-top: 5px; padding-bottom: 5px; background-color: #2150a0; color: #FFF;" onclick="reset()">
+	<input type="button" value="Next" style="position: absolute; left: 720px; top: 520px; width: 75px; padding-top: 5px; padding-bottom: 5px; background-color: #2150a0; color: #FFF;" onclick="reset10()">
 	</div>
 
 
@@ -326,7 +326,7 @@ MODE SHAPES</p>
   </tr> 
 </table>
 </div>
-			<input type="button" id="rest1" value="Restart" style="position: absolute; left: 655px; top: 500px; width: 115px; padding-top: 5px; padding-bottom: 5px; background-color: #2150a0; color: #FFF; visibility: hidden;" onclick="reset()">
+			<input type="button" id="rest1" value="Next" style="position: absolute; left: 655px; top: 500px; width: 115px; padding-top: 5px; padding-bottom: 5px; background-color: #2150a0; color: #FFF; visibility: hidden;" onclick="reset()">
       		
 </div> 
 
@@ -408,7 +408,7 @@ MODE SHAPES</p>
   </tr> 
 </table>
 </div>
-			<input type="button" id="rest2" value="Restart" style="position: absolute; left: 655px; top: 500px; width: 115px; padding-top: 5px; padding-bottom: 5px; background-color: #2150a0; color: #FFF; visibility: hidden;" onclick="reset()">
+			<input type="button" id="rest2" value="Next" style="position: absolute; left: 655px; top: 500px; width: 115px; padding-top: 5px; padding-bottom: 5px; background-color: #2150a0; color: #FFF; visibility: hidden;" onclick="reset()">
       		
 </div>
 
@@ -492,7 +492,7 @@ MODE SHAPES</p>
   </tr> 
 </table>
 </div>
-			<input type="button" id="rest3" value="Restart" style="position: absolute; left: 655px; top: 500px; width: 115px; padding-top: 5px; padding-bottom: 5px; background-color: #2150a0; color: #FFF; visibility: hidden;" onclick="reset()">
+			<input type="button" id="rest3" value="Next" style="position: absolute; left: 655px; top: 500px; width: 115px; padding-top: 5px; padding-bottom: 5px; background-color: #2150a0; color: #FFF; visibility: hidden;" onclick="reset()">
       		
 </div>
 
@@ -577,7 +577,7 @@ MODE SHAPES</p>
   </tr> 
 </table>
 </div>
-			<input type="button" id="rest4" value="Restart" style="position: absolute; left: 655px; top: 500px; width: 115px; padding-top: 5px; padding-bottom: 5px; background-color: #2150a0; color: #FFF; visibility: hidden;" onclick="reset()">
+			<input type="button" id="rest4" value="Next" style="position: absolute; left: 655px; top: 500px; width: 115px; padding-top: 5px; padding-bottom: 5px; background-color: #2150a0; color: #FFF; visibility: hidden;" onclick="reset()">
       		
 </div>
 
